@@ -191,10 +191,10 @@ a:hover {
    ========================================================================== */
 
 .navbar-inverse .navbar-inner {
-  background: #ff755a;
+  background: #F1F5F7;
   background-repeat: repeat-x;
-  border-color: #ff755a;
-  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff755a', endColorstr='#ff755a', GradientType=0)
+  border-color: #F1F5F7;
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#F1F5F7', endColorstr='#F1F5F7', GradientType=0)
 }
 
 .nav-collapse, .nav-collapse.collapse {
@@ -373,17 +373,17 @@ a:hover {
 
 
 .one {
-  background: url(../img/header1.jpg) no-repeat center center;
+  background: url(header1.jpg) no-repeat center center;
   background-size: cover;
 }
 
 .two {
-  background: url(../img/header2.jpg) no-repeat center center;
+  background: url(header2.jpg) no-repeat center center;
   background-size: cover;
 }
 
 .three {
-  background: url(../img/header3.jpg) no-repeat center center;
+  background: url(header3.jpg) no-repeat center center;
   background-size: cover;
 }
 
